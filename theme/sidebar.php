@@ -20,9 +20,9 @@
   <div class="w3-bar-block">
     <a href="#" class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Fechar Menu</a>
     <a href="dashboard.php" class="w3-bar-item w3-button w3-padding w3-blue"><i class="fa fa-users fa-fw"></i>  Painel</a>
-    <a href="manage-pig.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Gerenciamento Agricola</a>
-    <a href="manage-breed.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i> Gerenciamento de Produtos</a>
-    <a href="manage-quarantine.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Vencido</a>
+    <a href="manage-product.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-eye fa-fw"></i>  Gerenciamento Agricola</a>
+    <a href="manage-categoria.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-users fa-fw"></i> Gerenciamento de Produtos</a>
+    <a href="manage-outdate.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-diamond fa-fw"></i>  Vencido</a>
     <a href="logout.php" class="w3-bar-item w3-button w3-padding"><i class="fa fa-power-off fa-fw"></i>  Log out</a><br><br>
   </div>
 </nav>
